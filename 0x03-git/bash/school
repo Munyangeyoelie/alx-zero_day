@@ -1,2 +1,2 @@
-#!/bin/bas
-SCHOOL
+#!/bin/basH
+echo "ALX School is so cool!" 
